@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am an industrial engineer passionate about programming and Fullstack development. With solid experience in project coordination and application of continuous improvement methods, I have the ability to analyze data and efficiently manage resources. Recently, I completed the bootcamp at Henry, where I acquired knowledge in various languages and libraries.
+
+I combine my solid engineering background with programming skills to tackle challenges holistically and collaborate in multidisciplinary teams. My focus is on efficiency, process optimization, and delivering quality results. I am eager to bring my skills and experience to a challenging and collaborative work environment in the field of Fullstack development.
+
+- 🌱 I’m currently learning advance React.js
+- 📫 How to reach me: vecchiofj@gmail.com
+
+
 <!--
 **VecchioFJ/VecchioFJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
